@@ -23,3 +23,7 @@
   <a href = "mailto:guilherme.strg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barbosa-rocha-20ba6821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
+  <div>
+    <img align="center" alt="Rafa-pic" height="100%" width="100%" style="border-radius:50px;"  src="https://cdn.livepix.gg/profile/backgrounds/cdf61073-32b5-40b0-90a7-6035ba47eee1.gif">
+  </div>
