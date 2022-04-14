@@ -28,7 +28,7 @@
 
   
   <div align="center">
-    <img align="center" alt="Gui-pic" height="50%" width="50%" style="border-radius:50px;"  src="https://cdn.livepix.gg/profile/backgrounds/cdf61073-32b5-40b0-90a7-6035ba47eee1.gif">
+    <img align="center" alt="Gui-pic" height="70%" width="70%" style="border-radius:50px;"  src="https://cdn.livepix.gg/profile/backgrounds/cdf61073-32b5-40b0-90a7-6035ba47eee1.gif">
   </div>
   
 
