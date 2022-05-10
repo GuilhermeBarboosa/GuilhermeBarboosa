@@ -39,7 +39,7 @@
 
   <h1>Contato pelo whatsapp</h1>
 
-<a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwa.me%2F5534984039344&chs=180x180&choe=UTF-8&chld=L|2' alt='' style="height: 100px; width: 100px; "></a> 
+<a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwa.me%2F5534984039344&chs=180x180&choe=UTF-8&chld=L|2' alt='' style="height: 120px; width: 120px; "></a> 
    
   <h4>Obrigado!!</h4>
   <hr/>
