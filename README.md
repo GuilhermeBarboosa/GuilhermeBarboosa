@@ -8,7 +8,9 @@
 <div align="center">
   <a href="https://github.com/GuilhermeBarboosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBarboosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/GuilhermeBarboosa/github-readme-stats)
+    
+    
+    [![Guilherme Barbosa stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeBarboosa)](https://github.com/anuraghazra/github-readme-stats)
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarboosa&layout=compact&langs_count=7&theme=github_dark"/> -->
 </div>
   
