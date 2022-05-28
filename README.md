@@ -4,6 +4,9 @@
   
 </div>
 
+ <div align="center">
+    <img  align="center" alt="Gui-pic" height="100%" width="100%" style="border-radius:50px;"  src="https://i.pinimg.com/originals/08/00/a7/0800a7ee0d4d8b11a7ed297dd64fb488.gif">
+ </div>
 
 <div align="center">
   
@@ -32,7 +35,7 @@
   <a href = "mailto:guilherme.strg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barbosa-rocha-20ba6821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+</div> 
  <hr>
 <div align="center" style="margin=10px">
 
@@ -41,12 +44,12 @@
 <a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwa.me%2F5534984039344&chs=180x180&choe=UTF-8&chld=L|2' alt='' style="height: 120px; width: 120px; "></a> 
    
   <h4>Obrigado!!</h4>
-  <hr/>
+  
 </div>
 
-  <div align="center">
-    <img align="center" alt="Gui-pic" height="70%" width="70%" style="border-radius:50px;"  src="https://cdn.livepix.gg/profile/backgrounds/cdf61073-32b5-40b0-90a7-6035ba47eee1.gif">
-  </div>
+<hr/>
+
+
   
 
 <div align="center">
