@@ -4,17 +4,13 @@
   
 </div>
 
- <div align="center">
-    <img  align="center" alt="Gui-pic" height="50%" width="50%" style="border-radius:50px;"  src="https://i.pinimg.com/originals/08/00/a7/0800a7ee0d4d8b11a7ed297dd64fb488.gif">
- </div>
 
 <div align="center">
   
   [![GuilhermBarboosa GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBarboosa&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-    
-    
+ 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarboosa&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
 </div>
   
   ###
