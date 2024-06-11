@@ -20,9 +20,3 @@
 [![Repositório](https://img.shields.io/badge/portifolio%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://guilhermebarboosa.github.io/portifolio-dev/)
 
 </div>
-
-<div align="center">
-  
-![snake gif](https://github.com/GuilhermeBarboosa/GuilhermeBarboosa/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
