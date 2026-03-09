@@ -3,13 +3,18 @@
 # 👨‍💻 Guilherme Barbosa
 
 ### Full Stack Developer | Angular • Java • TypeScript • PHP
-
-💻 Desenvolvedor Full Stack com experiência em desenvolvimento web moderno, APIs e bancos de dados relacionais.  
-🚀 Focado em construir aplicações escaláveis, performáticas e com boas práticas de arquitetura.
-
 </div>
 
----
+<div align="start">
+  
+💻 Desenvolvedor Full Stack com experiência em desenvolvimento web moderno, APIs e bancos de dados relacionais.  
+
+</div>
+<div align="start">
+  
+🚀 Focado em construir aplicações escaláveis, performáticas e com boas práticas de arquitetura.
+</div>
+
 
 ## 🚀 Tech Stack
 
